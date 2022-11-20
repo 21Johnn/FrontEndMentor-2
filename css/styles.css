@@ -145,6 +145,7 @@ li button{
     width: 193px;
     height: 32px;
     background-color: #262E38;
+    font-family: 'Overpass', sans-serif;
     border-radius: 22.5px;
     display: flex;
     align-items: center;
